@@ -1,7 +1,6 @@
 # Step 1: Import Libraries and Load the Model
 import numpy as np
 #import tensorflow as tf
-from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing import sequence
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
